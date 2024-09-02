@@ -2,6 +2,7 @@ nginx
 #支持私库
 kubesphere/kube-events-exporter:v0.1.0
 kubesphere/elasticsearch-curator:v5.7.6
+kubesphere/prometheus-config-reloader:v0.42.1
 
 #支持指定架构
 --platform=linux/amd64
